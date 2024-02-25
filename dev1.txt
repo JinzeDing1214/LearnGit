@@ -1,2 +1,6 @@
 dev1
+<<<<<<< HEAD
 modify in main
+=======
+modify in feat1
+>>>>>>> feat
